@@ -55,4 +55,4 @@ python-3.6$ fluidos
 Batystuta Rocha
 {% endhighlight%}
 
-![](https://github.com/Batystuta/batystuta.github.io/blob/master/img/rodape_aboutme.png)
+![alt]({{ site.url }}{{ site.baseurl }}/img/rodape_aboutme.png){: .full}
