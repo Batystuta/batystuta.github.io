@@ -4,7 +4,7 @@ title: About me
 subtitle: Engenheiro hidráulico | cientista de dados | docente
 ---
 
-<i class="fa fa-address-card" aria-hidden="true"></i> Olá, meu nome é Batystuta Rocha e sou do [Piauí/Brasil](https://goo.gl/maps/vm2QnvSLv3L2), mas moro no sul do Brasil, na cidade chamada
+<i class="fa fa-address-card" aria-hidden="true"></i> Olá, meu nome é Batystuta Rocha e sou do [Piauí/Brasil](https://goo.gl/maps/vm2QnvSLv3L2), mas moro no sul do País, na cidade chamada
 [Porto Alegre](https://goo.gl/maps/Yhqbf9QnydJ2){:target="_blank"}.
 
 ### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
