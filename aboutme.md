@@ -29,7 +29,7 @@ GetDATA *(Graph Digitizer)* &bull; IntelliJ IDEA *(jetbrains)* &bull; Engineerin
 
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
-Excel 2019 / PowerPointe 2019 / Word 2019 nível avançado &bull; Markdown &bull; GitHub &bull; LaTeX
+Excel 2019 / PowerPoint 2019 / Word 2019 nível avançado &bull; Markdown &bull; GitHub &bull; LaTeX
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
