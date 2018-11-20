@@ -4,7 +4,7 @@ title: About me
 subtitle: Engenheiro hidráulico | cientista de dados | docente
 ---
 
-<i class="fa fa-address-card" aria-hidden="true"></i> Olá, meu nome é Batystuta Rocha e sou do [Piauí / BR](https://goo.gl/maps/vm2QnvSLv3L2), mas moro no sul do Brasil, na cidade chamada
+<i class="fa fa-address-card" aria-hidden="true"></i> Olá, meu nome é Batystuta Rocha e sou do [Piauí/BR](https://goo.gl/maps/vm2QnvSLv3L2), mas moro no sul do Brasil, na cidade chamada
 [Porto Alegre](https://goo.gl/maps/Yhqbf9QnydJ2){:target="_blank"}.
 
 ### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
@@ -22,17 +22,14 @@ Além disso, tenho muito interessado em **Eficiência Energética no Abastecimen
 
 [Python](https://www.python.org/) &bull; [Markdown](https://www.markdownguide.org/) &bull; [html](https://en.wikipedia.org/wiki/HTML) &bull; [Visual Basic for Application](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) &bull; [Fortran](https://en.wikipedia.org/wiki/Fortran) &bull; [MATLAB](https://www.mathworks.com/products/matlab.html) &bull; [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
-#### <i class="fa fa-gears" aria-hidden="true"></i> Server Roles, Features and Products
+#### <i class="fa fa-gears" aria-hidden="true"></i> software and Scientific Resources
 
-Active Directory &bull; File Server &bull; Web Server *(IIS and Apache)* &bull;
-DBs *(MSSQL, MySQL, PostgresSQL, Oracle 10g)* &bull; Backup & Restore *(IBM Tivoli Storage Manager)* &bull;
-Server Hypervisor *(VMWare ESX, HyperV)* &bull; Terminal Server *(Microsoft, Citrix XenApp/ XenDesktop)* &bull;
-Software Virtualization *(VMware ThinApp)* &bull; Software Packaging and Deployment *(Enteo Netinstall, Matrix42)*
-&bull; Monitoring *(Zabbix)* &bull; Build Engines *(Jenkins, AppVeyor)*
+EPANET &bull; CRede *(USP)* &bull; ArcGIS *(IIS and Apache)* &bull; Hidro *(ANA)* &bull; AutoCAD &bull;
+GetDATA *(Graph Digitizer)* &bull; IntelliJ IDEA *(jetbrains)* &bull; Engineering Equation Solver *(ESS)* 
 
 #### <i class="fa fa-gear" aria-hidden="true"></i> General Software
 
-git SCM &bull; Phabricator &bull; VSCode &bull; Notepad++
+Excel 2019 Avançado &bull; PowerPointe 2019 Avançado &bull; Word 2019 Avançado &bull; Notepad++ &bull; Markdown &bull; GitHub &bull; LaTeX
 
 ### <i class="fa fa-briefcase" aria-hidden="true"></i> Experience
 
@@ -49,7 +46,7 @@ Programa desenvolvido no estágio: acompanhar os trabalhos desenvolvidos no [Sis
 
 ### <i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-Eu terminei com sucesso a graduação de Bacharel em **Engenharia Civil** pela [Universidade Estadual do Piauí - UESPI](http://www.uespi.br/site/). E onde fui voluntario em iniciação científica pelo [Grupo de Pesquisa Engenheirando / CTU / UESPI](http://www.uespi.br/site/), no ano letivo de 2015.1 até 2016.1, e como voluntário monitor na mesma instituição nos anos 2014.2, 2015.1. e 2016.2. Atualmente, sou estudante do Programa de Pós-Graduação em Recursos Hídricos e Saneamento Ambiental do Instituto de Pesquisas Hidráulicas da Universidade Federal do Rio Grande do Sul ([IPH/UFRGS](http://www.ufrgs.br/ppgiph)), com ênfase em Eficiência Energética e Eficiência Hidráulica no abastecimento de água.
+Eu terminei com sucesso a graduação de Bacharel em **Engenharia Civil** pela [Universidade Estadual do Piauí - UESPI](http://www.uespi.br/site/). E onde fui voluntario em iniciação científica pelo [Grupo de Pesquisa Engenheirando/CTU/UESPI](http://www.uespi.br/site/), no ano letivo de 2015.1 até 2016.1, e como voluntário monitor na mesma instituição nos anos 2014.2, 2015.1. e 2016.2. Atualmente, sou estudante do Programa de Pós-Graduação em Recursos Hídricos e Saneamento Ambiental do Instituto de Pesquisas Hidráulicas da Universidade Federal do Rio Grande do Sul ([IPH/UFRGS](http://www.ufrgs.br/ppgiph)), com ênfase em Eficiência Energética e Eficiência Hidráulica no abastecimento de água.
 
 OK, eu vou ser honesto, não é fácil escrever sobre si mesmo, então por que você não ouve "[minha música](https://www.youtube.com/watch?v=lDXtskH298k)" e ela responderá **todas** as suas curiosidades.
 
