@@ -54,3 +54,5 @@ OK, eu vou ser honesto, não é fácil escrever sobre si mesmo, então por que v
 python-3.6$ fluidos
 Batystuta Rocha
 {% endhighlight%}
+
+![](img/rodape_aboutme.png?raw=true)
