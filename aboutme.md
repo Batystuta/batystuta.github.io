@@ -53,7 +53,7 @@ Eu terminei com sucesso a graduação de Bacharel em **Engenharia Civil** pela [
 
 OK, eu vou ser honesto, não é fácil escrever sobre si mesmo, então por que você não ouve "[minha música](https://www.youtube.com/watch?v=lDXtskH298k)" e ela responderá **todas** as suas curiosidades.
 
-{% highlight bash  %}
+{% highlight python  %}
 python-3.6$ fluidos
 Batystuta Rocha
 {% endhighlight%}
