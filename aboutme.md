@@ -9,18 +9,18 @@ subtitle: Engenheiro hidráulico | cientista de dados | docente
 
 ### <i class="fa fa-terminal" aria-hidden="true"></i> Projects
 
-Dê uma olhada nesta página de [Projetos]() para obter uma visão geral do meu trabalho atual.
+Dê uma olhada nesta página de [Projetos]() para obter uma visão geral das minhas atividades atuais.
 
 ### <i class="fa fa-heart" aria-hidden="true"></i> Favorite Topics
 
-Além disso, estou muito interessado em **PowerShell**, **DevOps**, **Phabricator** e **Engenharia de Software** em geral. Eu adoro explorar [Github](https://github.com/){:target="_blank"}, Stackoverflow ou Powershell.org e descobrir coisas novas.
+Além disso, tenho muito interessado em **Eficiência Energética no Abastecimento de Água**, **Modelagem Hidráulica**, **Mecânica dos Fluidos** e **Análise de dados** em geral. Eu adoro explorar [EPANET](https://www.epa.gov/water-research/epanet), [Python](https://www.python.org/), [Jupyter](http://jupyter.org/), [Computational fluid dynamics](https://en.wikipedia.org/wiki/Computational_fluid_dynamics) e etc, e descobrir coisas novas.
 
 ### <i class="fa fa-cubes" aria-hidden="true"></i> Skills
 *Aqui vem uma lista de assuntos com os quais trabalhei, agrupados por tópicos ...*
 
 #### <i class="fa fa-code" aria-hidden="true"></i> Scripting and Programming Languages
 
-Python &bull; Visual Basic &bull; Fortran &bull; MATLAB &bull; C
+[Python](https://www.python.org/) &bull; [Markdown](https://www.markdownguide.org/) &bull; [html](https://en.wikipedia.org/wiki/HTML) &bull; [Visual Basic for Application](https://en.wikipedia.org/wiki/Visual_Basic_for_Applications) &bull; [Fortran](https://en.wikipedia.org/wiki/Fortran) &bull; [MATLAB](https://www.mathworks.com/products/matlab.html) &bull; [C](https://en.wikipedia.org/wiki/C_(programming_language))
 
 #### <i class="fa fa-gears" aria-hidden="true"></i> Server Roles, Features and Products
 
